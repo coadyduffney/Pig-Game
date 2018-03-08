@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pig (Dice Game)
 
 Game Rules
