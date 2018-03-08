@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pig (Dice Game)
 
 Game Rules
@@ -7,3 +8,4 @@ Game Rules
 - If the player rolls a 1, all their current score gets lost and it becomes the next players turn.
 - The player can choose to 'Hold', which means that their current score gets added to their total score, then it becomes the next players turn.
 - The first player to reach 100 points on total score wins the game!
+=======
